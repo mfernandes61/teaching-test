@@ -1,2 +1,4 @@
 # teaching-test
-A repo to demonstrate version control
+A repo to demonstrate versing control
+## Cool I can use Markdown here too!
+
